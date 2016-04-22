@@ -22,6 +22,7 @@ group :production do
   gem 'pg', '0.15.1'
 end
 
+#重新push到heroku
 
 
 # source 'https://rubygems.org'
